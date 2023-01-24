@@ -18,7 +18,7 @@ test {
 }
 
 application {
-    mainClass = "edu.squarepants.assign01.Greetings"
+    mainClass = "edu.letourlt.assign01.Greetings"
     mainModule = "assign01mod"
 }
 
