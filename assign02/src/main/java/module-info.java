@@ -1,3 +1,3 @@
 module assign02mod {    
-    exports edu.letourlt.assign02;
+    exports edu.realemj.assign02;      
 }
