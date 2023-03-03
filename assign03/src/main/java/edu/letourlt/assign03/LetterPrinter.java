@@ -25,7 +25,7 @@ public class LetterPrinter {
     public static void main(String [] args) {
         Scanner userInput = new Scanner(System.in);
         Letterhead bHeader = askForLetterheadData(userInput);
-        System.out.println("Your new letterhead:");
+        System.out.println("Your new Letterhead:");
         System.out.println(bHeader);
     }
 }
