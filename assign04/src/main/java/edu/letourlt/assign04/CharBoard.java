@@ -76,4 +76,3 @@ public class CharBoard {
         return mapString.toString();
     }
 }
-
