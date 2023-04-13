@@ -1,4 +1,4 @@
-package edu.realemj.assign05;
+package edu.letourlt.assign05;
 // NOTE: CHANGE realemj to YOUR SITNETID!!!
 
 import edu.realemj.testing.GeneralTesting;
