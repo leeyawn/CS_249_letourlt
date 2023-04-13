@@ -1,7 +1,7 @@
 package edu.letourlt.assign05;
 
 public class Giant {
-    private String name;
+    public String name;
 
     public Giant() {}
 
