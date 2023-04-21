@@ -1,5 +1,5 @@
-package edu.realemj.assign06;
-import edu.realemj.assign04.CharBoard;
+package edu.letourlt.assign06;
+import edu.letourlt.assign04.CharBoard;
 //NOTE: CHANGE realemj to YOUR SITNETID!!!
 import org.testng.Assert;
 import org.testng.annotations.Test;
