@@ -1,7 +1,7 @@
-package edu.realemj.assign07;
+package edu.letourlt.assign07;
 
-import edu.realemj.assign04.CharBoard;
-import edu.realemj.assign06.*;
+import edu.letourlt.assign04.CharBoard;
+import edu.letourlt.assign06.*;
 import java.util.*;
 public class Thunderdome {
     public static void main(String [] args) {

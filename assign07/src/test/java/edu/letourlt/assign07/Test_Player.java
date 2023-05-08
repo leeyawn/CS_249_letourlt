@@ -1,8 +1,8 @@
-package edu.realemj.assign07;
+package edu.letourlt.assign07;
 
-import edu.realemj.assign04.CharBoard;
-import edu.realemj.assign06.Creature;
-import edu.realemj.assign06.GameFileException;
+import edu.letourlt.assign04.CharBoard;
+import edu.letourlt.assign06.Creature;
+import edu.letourlt.assign06.GameFileException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
